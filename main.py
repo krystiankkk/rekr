@@ -10,3 +10,6 @@ print(BitWise(strArray=[0b1001, 0b0100]))
 print(BitWise([0b101001, 0b001010]))
 print(BitWise([0b100, 0b000]))
 print(BitWise([0b00011, 0b010101]))
+
+
+a=[2 3 4 1 4]
