@@ -10,3 +10,6 @@ def countingValleys(steps, path):
             alt-=1
     return VC
 print(countingValleys(8, 'UDDDUDUU'))
+
+
+
