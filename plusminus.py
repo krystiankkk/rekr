@@ -15,4 +15,6 @@ def plusminus(arr):
     print(p_rat)
     print(m_rat)
     print(z_rat)
-plusminus([1,1,0,-1,-1])
+
+
+plusminus([1,1,0,-1,0,0])
